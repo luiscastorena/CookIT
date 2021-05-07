@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CookIT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="categor_as">Categorías</string>
+    <string name="botoncocinar">¡Cocinar!</string>
+    <string name="nombre_del_ingrediente">Nombre del Ingrediente</string>
+    <string name="Grasa_total">Grasa Total</string>
+    <string name="prote_nas">Proteínas</string>
+    <string name="carbohidratos">Carbohidratos</string>
+    <string name="colesterol">Colesterol</string>
+    <string name="AGREGAR">AGREGAR</string>
+    <string name="CANCELAR">CANCELAR</string>
+    <string name="crear_una_cuenta_nueva">CREAR UNA CUENTA NUEVA</string>
+    <string name="acerca_de_nosotros">ACERCA DE NOSOTROS</string>
+    <string name="todo">TODO</string>
+</resources>
